@@ -712,7 +712,7 @@ textarea:focus{
     }
 }
 
-@media only screen and (max-width : 496px) {
+@media only screen and (max-width : 767px) {
     /* Styles */
     aside{
         display: none;
