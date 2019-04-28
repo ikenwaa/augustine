@@ -824,7 +824,7 @@ textarea:focus{
     }
 }
 
-@media only screen and (min-width : 320px) and (max-width : 496px) {
+@media only screen and (min-width : 280px) and (max-width : 500px) {
     /* Styles */
     aside{
         display: none;
